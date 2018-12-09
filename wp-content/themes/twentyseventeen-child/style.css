@@ -15,3 +15,7 @@ Version: 0.1.0
 	max-width: 90%!important;
 	/*padding-top: 0px!important;*/
 }
+.site-Footer, #colophon
+{
+  display: none!important;
+}
