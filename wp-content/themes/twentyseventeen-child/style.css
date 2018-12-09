@@ -13,9 +13,16 @@ Version: 0.1.0
 .wrap
 {
 	max-width: 90%!important;
-	/*padding-top: 0px!important;*/
 }
 .site-Footer, #colophon
 {
   display: none!important;
+}
+.site-branding
+{
+  display: none;
+}
+.site-content
+{
+  padding: 0px;
 }
