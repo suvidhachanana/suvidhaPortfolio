@@ -26,3 +26,6 @@ Version: 0.1.0
 {
   padding: 0px!important;
 }
+.menu a:hover {
+    color: #BD5170!important;
+}
