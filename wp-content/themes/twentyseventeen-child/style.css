@@ -12,7 +12,13 @@ Version: 0.1.0
 
 .wrap
 {
-	max-width: 90%!important;
+	/*max-width: 90%!important;*/
+	margin: auto;
+	width: fit-content;
+}
+.site-branding-text
+{
+    text-align: center;
 }
 .site-Footer, #colophon
 {
@@ -21,6 +27,7 @@ Version: 0.1.0
 .site-branding
 {
   display: none;
+	padding-bottom: 250px!important;
 }
 .site-content
 {
