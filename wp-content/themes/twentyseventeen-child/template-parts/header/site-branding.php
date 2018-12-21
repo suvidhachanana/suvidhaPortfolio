@@ -27,7 +27,7 @@
 			if ( $description || is_customize_preview() ) :
 			?>
 				<p class="site-description"><?php echo $description; ?></p>
-				<a href="#content"><button>Learn More</button></a>
+				<a href="#content"><button class="my_home_button">Learn More</button></a>
 			<?php endif; ?>
 		</div><!-- .site-branding-text -->
 

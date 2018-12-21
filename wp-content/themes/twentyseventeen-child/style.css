@@ -20,9 +20,13 @@ Version: 0.1.0
 {
     text-align: center;
 }
-.site-Footer, #colophon
+.site-Footer
 {
   display: none!important;
+}
+#colophon
+{
+ display: none!important;
 }
 .site-branding
 {
@@ -38,4 +42,17 @@ Version: 0.1.0
 }
 #my_footer {
 	color: #bc3259;
+}
+.my_home_button
+{
+	background: black;
+	margin-top: 20px;
+}
+.site-branding-text a
+{
+	color: black!important;
+}
+.site-branding-text p
+{
+	color: black!important;
 }
